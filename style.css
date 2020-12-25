@@ -1,0 +1,13 @@
+/* style */
+img{
+    height: 150px;
+    width: 150px;
+    margin-left: 20px;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: yellowgreen;
+}
+div{
+    margin-bottom: 15px;
+}
